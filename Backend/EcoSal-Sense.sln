@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoSal-Sense.API", "EcoSal-Sense.API\EcoSal-Sense.API.csproj", "{61D73CC4-BD33-4749-9D9D-79B628DDA331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoSal-Sense.Core", "EcoSal-Sense.Core\EcoSal-Sense.Core.csproj", "{9BA9800C-D60D-4CCC-BEA0-9D8D73E89FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoSal-Sense.Data", "EcoSal-Sense.Data\EcoSal-Sense.Data.csproj", "{4D1B1CC7-4493-4556-94E7-CE37E636569A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoSal-Sense.Services", "EcoSal-Sense.Services\EcoSal-Sense.Services.csproj", "{10EF3F8D-E0A6-4575-9315-8DDA8DD86801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D73CC4-BD33-4749-9D9D-79B628DDA331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D73CC4-BD33-4749-9D9D-79B628DDA331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D73CC4-BD33-4749-9D9D-79B628DDA331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D73CC4-BD33-4749-9D9D-79B628DDA331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA9800C-D60D-4CCC-BEA0-9D8D73E89FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA9800C-D60D-4CCC-BEA0-9D8D73E89FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA9800C-D60D-4CCC-BEA0-9D8D73E89FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA9800C-D60D-4CCC-BEA0-9D8D73E89FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1B1CC7-4493-4556-94E7-CE37E636569A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1B1CC7-4493-4556-94E7-CE37E636569A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1B1CC7-4493-4556-94E7-CE37E636569A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1B1CC7-4493-4556-94E7-CE37E636569A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10EF3F8D-E0A6-4575-9315-8DDA8DD86801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EF3F8D-E0A6-4575-9315-8DDA8DD86801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EF3F8D-E0A6-4575-9315-8DDA8DD86801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EF3F8D-E0A6-4575-9315-8DDA8DD86801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0285759-D75F-4F79-9328-3C2FE397B485}
+	EndGlobalSection
+EndGlobal

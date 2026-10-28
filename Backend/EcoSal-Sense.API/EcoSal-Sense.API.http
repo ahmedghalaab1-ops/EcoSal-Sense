@@ -1,0 +1,6 @@
+@EcoSal_Sense.API_HostAddress = http://localhost:5093
+
+GET {{EcoSal_Sense.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
