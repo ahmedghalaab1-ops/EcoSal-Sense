@@ -42,5 +42,10 @@ namespace EcoSal_Sense.Services
 
             return result;
         }
+
+        public object? EvaluateSoilCondition(double sampleTds, double sampleMoisture)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
